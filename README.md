@@ -13,4 +13,4 @@ Blender should be installed
 
 # Usage
 1. Clone repository and put your .dae and .fbx files in the repository folder.
-2. Run dae_fbx_to_bvh.sh
+2. Run ```dae_fbx_to_bvh.sh``` for Linux or ```dae_fbx_to_bvh.cmd``` for Windows
